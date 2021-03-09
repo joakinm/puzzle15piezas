@@ -1,16 +1,17 @@
-#juego
-{
+#juego {
     display:flex;
     flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
+    max-width: 800px;
 }
-body{
+
+body {
     margin:50px;
 }
-.juego{
-    width:25%;
-}
-.BtJuego{
+
+.BtJuego {
     font-size: xxx-large;
-width: 200px;
-height: 200px;
+    width: 200px;
+    height: 200px;
 }
